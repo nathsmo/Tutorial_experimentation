@@ -18,4 +18,7 @@ In this folder you will find:
 * set mouse=a
 * u to undo
 
-
+### Git Commands to push files
+* git add NameOfFile
+* git commit -m "message"
+* git push
