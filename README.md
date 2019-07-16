@@ -8,9 +8,9 @@ In this folder you will find:
 
 
 
-
-
-
+### Future courses/pages/investigations
+* Service in restaurants
+* Grid Search
 
 
 
